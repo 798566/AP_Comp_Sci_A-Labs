@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\r\n\ Lab816\ First\ Class\r\n\r\n\ @Sophia\r\n\ @816\r\n
+comment1.params=
+comment1.target=Student()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Student\r\n
+comment2.params=sn
+comment2.target=void\ studNumber(int)
+comment2.text=\r\n\ Student\ Methods\r\n
+comment3.params=
+comment3.target=int\ getStudNumber()
+numComments=4

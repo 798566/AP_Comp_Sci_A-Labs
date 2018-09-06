@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=AveragingDigits_SOL
+comment1.params=num
+comment1.target=int\ countDigits(int)
+comment2.params=num
+comment2.target=double\ sumDigits(int)
+comment3.params=num
+comment3.target=double\ averageDigits(int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

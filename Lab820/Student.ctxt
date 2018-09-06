@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\r\n\ Lab820\r\n\r\n\ @Sophia\r\n\ @820\r\n
+comment1.params=
+comment1.target=Student()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Student\r\n
+comment2.params=sn
+comment2.target=void\ studNumber(int)
+comment2.text=\r\n\ Student\ Methods\r\n
+comment3.params=
+comment3.target=int\ getStudNumber()
+comment4.params=sn
+comment4.target=void\ studActive(boolean)
+comment5.params=
+comment5.target=boolean\ getStudActive()
+comment6.params=sn
+comment6.target=void\ studGPA(double)
+comment7.params=
+comment7.target=double\ getStudGPA()
+comment8.params=sn
+comment8.target=void\ studName(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ getStudName()
+numComments=10

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=SimpleCalc
+comment0.text=\r\n\ Lab822\ SimpleCalc\r\n\r\n\ @Sophia\r\n\ @822\r\n
+comment1.params=
+comment1.target=SimpleCalc()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SimpleCalc\r\n
+comment2.params=n1\ n2
+comment2.target=double\ getAdd(int,\ int)
+comment2.text=\r\n\ SimpleCalc\ Methods\r\n
+comment3.params=n1\ n2
+comment3.target=double\ getSubtract(int,\ int)
+comment4.params=n1\ n2
+comment4.target=double\ getMultiply(int,\ int)
+comment5.params=n1\ n2
+comment5.target=double\ getDivide(int,\ int)
+comment6.params=n1\ n2
+comment6.target=double\ getModuloDivide(int,\ int)
+numComments=7
